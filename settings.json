@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Bhai-13me.aternos.me:50817",
+    "port": 50817
+    ,
     "version": "",
     "try-creative": false
   },
